@@ -1,0 +1,19 @@
+{
+  "name": "ts-expert-trabalhando-com-stubs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "tsx watch ./src/service.ts",
+    "test": "tsx ./src/service.test.ts"
+  },
+  "keywords": [],
+  "author": "Giovani Franz",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.18.36",
+    "@types/sinon": "^10.0.13",
+    "sinon": "^9.2.4",
+    "tsx": "^3.12.2",
+    "typescript": "^4.9.4"
+  }
+}
